@@ -1,0 +1,22 @@
+html, body {
+  font-family: 'Times New Roman', Times, sans-serif;
+  text-align: center;
+  margin: 30px;
+  background: darkgray;
+}
+
+.image {
+  width: 200px;
+  border-radius: 600px;
+}
+
+.button {
+  background-size: auto;
+  background-color: white;
+  font-feature-settings: "calt";
+}
+
+div {
+  background-color: lightblue;
+  text-align: center;
+}
